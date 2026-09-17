@@ -1,4 +1,4 @@
-# BAKEEN-THREE-FORK-CLUSTERING# Data-Driven Petrophysical Clustering of the Bakken–Three Forks System
+# BAKKEN-THREE-FORK-CLUSTERING# Data-Driven Petrophysical Clustering of the Bakken–Three Forks System
 
 This repository contains the Python code supporting the petrophysical clustering and reservoir-quality analysis presented in our study of the Bakken–Three Forks system.
 
