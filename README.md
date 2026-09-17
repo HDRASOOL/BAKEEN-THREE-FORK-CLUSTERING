@@ -97,18 +97,4 @@ The analysis can then be executed sequentially in a compatible Python or Google 
 
 The dataset used in this study is not included in this repository unless explicitly provided in the `data` directory. Users should refer to the associated publication for information regarding the source and availability of the underlying data.
 
-## Citation
 
-If you use this code or methodology, please cite the associated publication:
-
-> [Authors]. [Article title]. [Journal], [Year]. [DOI]
-
-The complete citation and DOI will be added following publication.
-
-## License
-
-Please refer to the `LICENSE` file for the terms governing reuse of the code in this repository.
-
-## Contact
-
-For questions regarding the methodology or code, please contact the corresponding author of the associated publication.
